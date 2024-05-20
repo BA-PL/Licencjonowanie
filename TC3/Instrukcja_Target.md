@@ -6,9 +6,10 @@ Instrukcja  nie  opisuje  przypadku  wgrywania  licencji  na  moduł EL6070 lub 
 
 ## Protokół odbioru
 
-Na początku potrzebujemy nazw licencji oraz numeru rejestracji. Znajdziemy je na Protokole Odbioru Towaru.
+Na początku warto sprawdzić zakupione licencje. Do realizacji procesu licencjonowania będzie potrzebny numer „BADE-IN” (wpisujemy tylko znaki zaznaczone na zielono). Znajdziemy je na Fakturze VAT lub na Potwierdzeniu zamówienia.
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/a26da93c-804a-4619-8d4d-b0694eb14fe5)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/03686114-9b65-4247-8163-20b10967f38d)
+
 
 TCxxxx-xx**40** – **40** oznacza platformę sprzętową.
 
@@ -24,7 +25,7 @@ Następnie w zakładce *Order information (Runtime)* dopasowujemy licencję do u
 
 ![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/4f143ece-52fb-46d0-9862-493d39448c05)
 
-Następnie wpisujemy numer zamówienia oraz wybieramy platformę zgodną z zamówieniem (powinna zostać rozpoznana automatycznie).
+Następnie wpisujemy numer zamówienia (tylko cyfry z numeru BADE-IN) oraz wybieramy platformę zgodną z zamówieniem (powinna zostać rozpoznana automatycznie).
 
 ![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/922fd6dd-cfa9-4449-a71a-e7dd4a93c8e2)
 
