@@ -1,4 +1,4 @@
-# Licencjonowanie Target 
+# Licencjonowanie Dongle
 
 Niniejsza instrukcja opisuje sposób samodzielnego aktywowania licencji na urządzeniu licencyjnym takim jak EL6070 lub klucz USB C9900-L100.
 
@@ -6,9 +6,10 @@ Instrukcja nie opisuje przypadku wgrywania licencji bezpośrednio na sterownik.
 
 ## Protokół odbioru
 
-Na początku potrzebujemy nazw licencji oraz numeru rejestracji. Znajdziemy je na Protokole Odbioru Towaru.
+Na początku warto sprawdzić zakupione licencje. Do realizacji procesu licencjonowania będzie potrzebny numer „BADE-IN” (wpisujemy tylko znaki zaznaczone na zielono). Znajdziemy je na Fakturze VAT lub na Potwierdzeniu zamówienia.
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/a26da93c-804a-4619-8d4d-b0694eb14fe5)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/1d917be7-0304-400f-84cf-11c6403938ec)
+
 
 TCxxxx-xx**40** – **40** oznacza platformę sprzętową.
 
@@ -56,7 +57,7 @@ Niewybrane licencje będą wyszarzone, nie biorą one udziału w dalszej częśc
 
 ![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/a9e9bfbc-a28d-450a-93fa-a3627c96f18d)
 
-Następnie wpisujemy numer zamówienia oraz wybieramy platformę zgodną z zamówieniem.
+Następnie wpisujemy numer zamówienia (tylko cyfry z numeru BADE-IN) oraz wybieramy platformę zgodną z zamówieniem.
 
 ![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/3a3ec6c0-ff18-449a-8197-4fab918529d1)
 
