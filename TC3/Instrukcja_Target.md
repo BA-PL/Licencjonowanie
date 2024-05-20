@@ -23,19 +23,22 @@ W zakładce *License / Manage Licenses* zaznaczamy *Disable automatic detection 
 
 Następnie w zakładce *Order information (Runtime)* dopasowujemy licencję do urządzenia docelowego (dla sterownika – Target ) 
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/4f143ece-52fb-46d0-9862-493d39448c05)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/dba2d51e-b05c-4f4a-aad3-66a8723300dd)
 
 Następnie wpisujemy numer zamówienia (tylko cyfry z numeru BADE-IN) oraz wybieramy platformę zgodną z zamówieniem (powinna zostać rozpoznana automatycznie).
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/922fd6dd-cfa9-4449-a71a-e7dd4a93c8e2)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/731d0988-ae64-4a1a-8709-87099591f348)
+
 
 Docelowa platforma zdefiniowana jest w nazwie licencji na zamówieniu np. TC1000-00**40**
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/de09bf99-4b04-446a-8257-2f7bd7731a48)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/75ca9ddb-e8fd-4460-a19c-ac2e3da31c70)
+
 
 Wybieramy *Generate File* i zapisujemy plik w dowolnym miejscu na komputerze.
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/509f90b9-fa7a-498f-be5c-2828fb5189f3)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/456e6db1-b5a4-4c74-b2d3-190151feb70b)
+
 
 Jeżeli mamy skonfigurowaną pocztę to możemy automatycznie utworzyć maila wybierając:
 
