@@ -47,7 +47,8 @@ W zakładce *License / Manage Licenses* zaznaczamy *Disable automatic detection 
 
 Następnie w zakładce *Order information (Runtime)* dopasowujemy licencję do urządzenia docelowego (w tym przypadku Dongle) 
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/92b503db-6968-4b5e-bbad-e0a525c8303b)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/bf478e20-cb8d-410b-bc28-b6748104bebd)
+
 
 Wybieramy urządzenie główne, dla którego generowana będzie licencja:
 
@@ -59,15 +60,16 @@ Niewybrane licencje będą wyszarzone, nie biorą one udziału w dalszej częśc
 
 Następnie wpisujemy numer zamówienia (tylko cyfry z numeru BADE-IN) oraz wybieramy platformę zgodną z zamówieniem.
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/3a3ec6c0-ff18-449a-8197-4fab918529d1)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/7d2a314d-88c4-457b-850e-be73e5a42957)
 
 Docelowa platforma zdefiniowana jest w nazwie licencji na zamówieniu np. TC1000-00**40**
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/de09bf99-4b04-446a-8257-2f7bd7731a48)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/43525c82-a101-447d-a62d-a5d61fea78d6)
 
 Wybieramy *Generate File* i zapisujemy plik w dowolnym miejscu na komputerze.
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/63dfa565-fe13-4fad-9977-30bd29b52cb3)
+![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/11c5e323-be39-42df-91f3-5911feceef5a)
+
 
 Jeżeli mamy skonfigurowaną pocztę to możemy automatycznie utworzyć maila wybierając:
 
