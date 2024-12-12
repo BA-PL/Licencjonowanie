@@ -68,7 +68,8 @@ Aktywujemy konfigurację TwinCATa:
 
 Licencje są już aktywne:
 
-![image](https://github.com/BA-PL/Licencjonowanie/assets/155453679/f364b055-d7c5-4c9e-931e-4da83f45fa69)
+![image](https://github.com/user-attachments/assets/486d942f-b259-4a97-b148-c629003fc13b)
+
 
 
 
